@@ -27,6 +27,10 @@ Cela indique une opportunité importante d’accroître la participation au prog
 
 L’examen des ventes de produits complémentaires révèle une tendance notable : une grande proportion des ventes inclut des produits additionnels. Cela indique que les clients achètent fréquemment des accessoires pour smartphones ou des garanties prolongées pour ordinateurs portables. Cette stratégie de cross-selling pourrait être renforcée pour augmenter la valeur moyenne des commandes.
 
+
+![Sales Chart](https://github.com/user-attachments/assets/4680873d-b348-431e-af7f-38b132737b18)
+
+
 ### d. Analyse du Statut des Commandes
 
 L’analyse de la répartition des commandes montre que :
