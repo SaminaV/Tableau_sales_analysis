@@ -18,6 +18,8 @@ Les données révèlent des résultats significatifs en termes de volume de vent
 
 L’analyse révèle que les clients principaux sont les personnes âgées de 55 ans et plus, qui génèrent les plus gros volumes d’achat, avec 23 150 achats pour les hommes et 22 114 pour les femmes. À l’inverse, le segment des 18-24 ans constitue la part la plus faible des ventes, avec seulement 5 775 achats pour les hommes et 5 935 pour les femmes. 
 
+![Image](https://github.com/user-attachments/assets/25c9cd21-add7-4a18-bce9-a7f2937d88ce)
+
 ### b. Impact du Programme de Fidélité
 
 L’analyse montre que les clients non membres représentent entre 75,92 % (casques audio) et 79,39 % (smartphones) des ventes, tandis que les membres du programme de fidélité contribuent à 20 à 25 % des transactions seulement.
@@ -37,6 +39,8 @@ L’analyse de la répartition des commandes montre que :
 
 - **Les commandes finalisées (ligne bleu foncé)** représentent l’essentiel des transactions, indiquant une gestion efficace des stocks et un haut niveau de satisfaction client.
 - **Cependant, la présence de commandes annulées (ligne bleu clair),** bien que minoritaire, invite à investiguer les causes potentielles : échecs de paiement, retards de livraison ou insatisfaction client. Une attention particulière à ces facteurs pourrait améliorer le processus de vente et réduire le taux d’annulation.
+
+![Image](https://github.com/user-attachments/assets/502e3510-657b-42d9-90ce-5d68243cd1cf)
 
 ## 3. Recommandations Stratégiques
 
