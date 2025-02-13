@@ -23,13 +23,13 @@ L’analyse révèle que les clients principaux sont les personnes âgées de 55
 L’analyse montre que les clients non membres représentent entre 75,92 % (casques audio) et 79,39 % (smartphones) des ventes, tandis que les membres du programme de fidélité contribuent à 20 à 25 % des transactions seulement.
 Cela indique une opportunité importante d’accroître la participation au programme de fidélité. Mettre en place des stratégies ciblées, telles que des réductions exclusives, des avantages supplémentaires ou un programme de points de fidélité, pourrait inciter davantage de clients à rejoindre le programme et ainsi renforcer leur engagement et leur récurrence d’achat à long terme.
 
+![Image](https://github.com/user-attachments/assets/fabe3e01-42ff-4113-accb-111be97092e9)
+
 ### c. Analyse des Produits Complémentaires
 
 L’examen des ventes de produits complémentaires révèle une tendance notable : une grande proportion des ventes inclut des produits additionnels. Cela indique que les clients achètent fréquemment des accessoires pour smartphones ou des garanties prolongées pour ordinateurs portables. Cette stratégie de cross-selling pourrait être renforcée pour augmenter la valeur moyenne des commandes.
 
-
 ![Sales Chart](https://github.com/user-attachments/assets/4680873d-b348-431e-af7f-38b132737b18)
-
 
 ### d. Analyse du Statut des Commandes
 
